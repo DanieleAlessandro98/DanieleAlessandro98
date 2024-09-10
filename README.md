@@ -1,6 +1,39 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h4 align="center">A passionate software backend developer</h4>
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/C.svg" width="48" height="48" alt="C" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/C++.svg" width="48" height="48" alt="C++" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Android.svg" width="48" height="48" alt="Android" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Java.svg" width="48" height="48" alt="Java" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/MySQL.svg" width="48" height="48" alt="MySQL" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Python.svg" width="48" height="48" alt="Python" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Visual Studio Code.svg" width="48" height="48" alt="Visual Studio Code" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Unity.svg" width="48" height="48" alt="Unity" />
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
