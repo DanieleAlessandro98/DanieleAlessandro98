@@ -48,12 +48,12 @@
 
 <h3 align="left"></h3>
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=danielealessandro98&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,javascript,shaderlab"
-        alt="danielealessandro98" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrodan&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,javascript,shaderlab"
+        alt="alessandrodan" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=danielealessandro98&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&hide=contribs"
-        alt="danielealessandro98" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=alessandrodan&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&hide=contribs"
+        alt="alessandrodan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielealessandro98&"
-        alt="danielealessandro98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrodan&"
+        alt="alessandrodan" /></p>
